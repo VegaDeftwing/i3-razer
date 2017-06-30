@@ -147,7 +147,7 @@ for device in device_manager.devices:
     if 10 in numlist:
         wasd_on()
 
-    if 11 in numlist:
+    if qwerty in numlist:
         qwerty_on()
 
 #Do the thing Julie! Do. The. Thing!
